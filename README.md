@@ -15,10 +15,10 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3> <br>
+## Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ arfan-ahmed-shohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ arfan-ahmed-shohag" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" height="30" width="40" /><span>Facebook</span></a>
 </p>
 
 

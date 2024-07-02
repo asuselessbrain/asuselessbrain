@@ -1,11 +1,26 @@
 <a href="https://www.facebook.com/profile.php?id=61551041847783&mibextid=ZbWKwL">
 <img src="https://raw.githubusercontent.com/asuselessbrain/asuselessbrain/main/images/Banner.png" />
-</a> <br> <br>
+</a> 
+<h1 align="center">Hi 👋, I'm Arfan Ahmed</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<br> <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+- 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+- 🌱 I’m currently learning **Next js**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **ahmedshohagarfan@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ arfan-ahmed-shohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ arfan-ahmed-shohag" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" height="30" width="40" /></a>
+</p>
+
 
 ## :computer: Technologies that I know
 <br> <br>

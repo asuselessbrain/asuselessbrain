@@ -5,6 +5,10 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br> <br>
 
+## :chart_with_upwards_trend: Current Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuselessbrain)](https://github.com/asuselessbrain/github-readme-stats)
+
 - 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)
 
 - 🌱 I’m currently learning **Next js**

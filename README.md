@@ -17,7 +17,19 @@
 
 ## Connect with me:
 <p align="center">
+  <div id="badges" align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ arfan-ahmed-shohag" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a> 
 <a href="https://github.com/asuselessbrain" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+   <br>
+</div>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ arfan-ahmed-shohag" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ arfan-ahmed-shohag" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" height="30" width="40" /><span>Facebook</span></a>
 </p>

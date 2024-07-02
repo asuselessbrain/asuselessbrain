@@ -7,7 +7,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuselessbrain)](https://github.com/asuselessbrain/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuselessbrain)](https://github.com/asuselessbrain/github-readme-stats&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)
 

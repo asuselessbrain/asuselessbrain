@@ -5,10 +5,17 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br> <br>
 
-## :chart_with_upwards_trend: Current Stats
+### 🔥 My GitHub Stats :
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asuselessbrain)](https://github.com/asuselessbrain/github-readme-stats&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=asuselessbrain&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
+</div> <br> <br>
 
+## :eyes: Current overview
+<br>
 - 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)
 
 - 🌱 I’m currently learning **Next js**
@@ -17,9 +24,10 @@
 
 - 📫 How to reach me **ahmedshohagarfan@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny** <br><br>
 
 ## Connect with me:
+<br>
 <p align="center">
   <div id="badges" align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/ arfan-ahmed-shohag" style="text-decoration: none"  target="_blank">
@@ -34,11 +42,11 @@
 <a href="https://github.com/asuselessbrain" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
    <br>
 </div>
-</p>
+</p> <br> <br>
 
 
 ## :computer: Technologies that I know
-<br> <br>
+<br>
 <p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/HTML.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/css.png"/>

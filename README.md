@@ -8,17 +8,18 @@
 ### 🔥 My GitHub Stats :
 <br>
 
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asuselessbrain&theme=merko&hide_border=true" alt="asuselessbrain's GitHub Stats" width="70%" height="100%" alt="Github STat" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="asuselessbrain's GitHub Stats" width="55%" height="100%" alt="Github STat" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="asuselessbrain's GitHub Stats" width="42%" height="100%" alt="Github STat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="asuselessbrain's GitHub Stats" width="44%" height="100%" alt="Github STat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asuselessbrain&theme=merko&hide_border=true" alt="asuselessbrain's GitHub Stats" width="46.7%" height="100%" alt="Github STat" />
+  
   
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
-</div> <br> <br>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="asuselessbrain's GitHub Stats" width="42%" height="100%" alt="Github STat" />
+</div>
+ <br> <br>
 ## :eyes: Current overview
 <br>
 - 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)

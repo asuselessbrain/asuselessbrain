@@ -9,6 +9,7 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="asuselessbrain's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=asuselessbrain&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->

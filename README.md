@@ -8,10 +8,14 @@
 ### 🔥 My GitHub Stats :
 <br>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="asuselessbrain's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=asuselessbrain&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asuselessbrain&theme=merko&hide_border=true" alt="asuselessbrain's GitHub Stats" width="70%" height="100%" alt="Github STat" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="asuselessbrain's GitHub Stats" width="55%" height="100%" alt="Github STat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="asuselessbrain's GitHub Stats" width="42%" height="100%" alt="Github STat" />
+  
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
 </div> <br> <br>
 
@@ -31,7 +35,7 @@
 <br>
 <p align="center">
   <div id="badges" align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/ arfan-ahmed-shohag" style="text-decoration: none"  target="_blank">
+  <a href="https://www.linkedin.com/in/arfan-ahmed40/" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">

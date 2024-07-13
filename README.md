@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/profile.php?id=61551041847783&mibextid=ZbWKwL">
+<a href="https://www.facebook.com/profile.php?id=61551041847783&mibextid=ZbWKwL" target="_blank">
 <img src="https://raw.githubusercontent.com/asuselessbrain/asuselessbrain/main/images/Banner.png" />
 </a> 
 <h1 align="center">Hi 👋, I'm Arfan Ahmed</h1>

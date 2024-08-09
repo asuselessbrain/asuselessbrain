@@ -20,18 +20,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="asuselessbrain's GitHub Stats" width="42%" height="100%" alt="Github STat" />
 </div>
  <br> <br>
- 
-## :eyes: Current overview
-<br>
-- 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)
 
-- 🌱 I’m currently learning **Next js**
+ ## :eyes: Current overview
 
-- 💬 Ask me about **React**
+<div align="left">
+<a href="https://app.daily.dev/arfanahmedshohag"><img align="right" src="https://api.daily.dev/devcards/v2/iIBSuCFpXCBzfeV0IxQJT.png?type=default&r=z7y" width="200" alt="Arfan Ahmed's Dev Card"/></a>
+</div>
 
-- 📫 How to reach me **ahmedshohagarfan@gmail.com**
+### 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)
+### 🌱 I’m currently learning **Next js**
+### 💬 Ask me about **React**
+### 📫 How to reach me **ahmedshohagarfan@gmail.com**
+### ⚡ Fun fact **I think I am funny**
 
-- ⚡ Fun fact **I think I am funny** <br><br>
+
+<br />
+
 
 ## Connect with me:
 <br>

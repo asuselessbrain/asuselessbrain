@@ -74,8 +74,17 @@
 <p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/express.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/mongo.png"/>
-</p><br/>
-<hr>
+</p></br>
+
+ ## ⚡ Recent GitHub Activity
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asuselessbrain&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 🐍 A Snake Eating My Contributions Graph
 <p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+	</picture>
 </p>

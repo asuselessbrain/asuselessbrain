@@ -21,6 +21,10 @@
 </div>
  <br> <br>
 
+  ## ⚡ Recent GitHub Activity
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asuselessbrain&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br/> <br/>
+
  ## :eyes: Current overview
 
 <div align="left">
@@ -36,8 +40,9 @@
 
 <br />
 
+<br/>
 
-## Connect with me:
+## :mailbox: Connect with me:
 <br>
 <p align="center">
   <div id="badges" align="center">
@@ -75,9 +80,6 @@
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/express.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/mongo.png"/>
 </p></br>
-
- ## ⚡ Recent GitHub Activity
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asuselessbrain&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🐍 A Snake Eating My Contributions Graph

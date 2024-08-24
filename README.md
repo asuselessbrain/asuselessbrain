@@ -27,7 +27,8 @@
 <br>
 
  <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ArfanAhmed?theme=dark&font=Arapey&ext=heatmap" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" />
+	 <!-- <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arfan143128&theme=radical" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" /> -->
+  	<img src="https://leetcard.jacoblin.cool/ArfanAhmed?theme=dark&font=Arapey&ext=heatmap" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" />
 </div>
 
 <br>

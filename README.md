@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br> <br>
 
-### 🔥 My GitHub Stats :
+## 🔥 My GitHub Stats :
 <br>
 
 <div align="center">
@@ -17,15 +17,28 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="asuselessbrain's GitHub Stats" width="42%" height="100%" alt="Github STat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="asuselessbrain's GitHub Stats" width="48%" height="100%" alt="Github STat" />
 </div>
- <br> <br>
+ <br>
+
+ 
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">  My Competitive Programming Profiles
+
+<br>
+
+ <div align="center">
+  <img src="https://leetcard.jacoblin.cool/ArfanAhmed?theme=dark&font=Arapey&ext=heatmap" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" />
+</div>
+
+<br>
 
   ## ⚡ Recent GitHub Activity
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asuselessbrain&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asuselessbrain&theme=react-dark" alt="arfan leetcode stats" width="100%" height="100%" alt="LeetCode STat" />
   <br/> <br/>
 
  ## :eyes: Current overview
+ <br>
 
 <div align="left">
 <a href="https://app.daily.dev/arfanahmedshohag"><img align="right" src="https://api.daily.dev/devcards/v2/iIBSuCFpXCBzfeV0IxQJT.png?type=default&r=z7y" width="200" alt="Arfan Ahmed's Dev Card"/></a>

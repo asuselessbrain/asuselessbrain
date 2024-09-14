@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/asuselessbrain/asuselessbrain/main/images/Banner2.png" />
 </a> 
 <h1 align="center">Hi 👋, I'm Arfan Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <br> <br>
 
 ## 🔥 My GitHub Stats :

@@ -45,7 +45,7 @@
 <a href="https://app.daily.dev/arfanahmedshohag"><img align="right" src="https://api.daily.dev/devcards/v2/iIBSuCFpXCBzfeV0IxQJT.png?type=default&r=z7y" width="200" alt="Arfan Ahmed's Dev Card"/></a>
 </div>
 
-### 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/)
+<!--### 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/) -->
 ### 🌱 I’m currently learning **Next js**
 ### 💬 Ask me about **React**
 ### 📫 How to reach me **ahmedshohagarfan@gmail.com**

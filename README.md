@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/arfan-ahmed40/" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">
+  <a href="https://twitter.com/shoha50275" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://fb.com/https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" style="text-decoration: none"  target="_blank">

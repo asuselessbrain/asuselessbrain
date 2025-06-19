@@ -56,6 +56,12 @@
 
 <br/>
 
+## 🏆 GitHub Achievements
+<div align="center">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=asuselessbrain&theme=tokyonight&no-frame=true&column=7" width="1000" alt="Arfan Ahmed's GitHub trophies"/>
+</div>
+
+
 ## :mailbox: Connect with me:
 <br>
 <p align="center">

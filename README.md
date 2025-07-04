@@ -39,18 +39,24 @@
   <br/> <br/>
 
  ## :eyes: Current overview
- <br>
 
 <div align="left">
 <a href="https://app.daily.dev/arfanahmedshohag"><img align="right" src="https://api.daily.dev/devcards/v2/iIBSuCFpXCBzfeV0IxQJT.png?type=default&r=z7y" width="200" alt="Arfan Ahmed's Dev Card"/></a>
 </div>
 
-<!--### 🔭 I’m currently working on [Online Mobile Shop](https://online-mobile-shop-by-arfan.netlify.app/) -->
-### 🌱 I’m currently learning **Next js**
-### 💬 Ask me about **React**
-### 📫 How to reach me **ahmedshohagarfan@gmail.com**
-### ⚡ Fun fact **I think I am funny**
+- 🔭 I’m currently working on [Medical Camp Management System](https://github.com/asuselessbrain/Medical-Camp-Management-System.git)
 
+- 🌱 I’m currently learning **Flutter**
+
+- 👨‍💻 All of my projects are available at [https://arfanahmed.vercel.app/](https://arfanahmed.vercel.app/)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **arfan18@cse.pstu.ac.bd**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1znXQ_foJduuTLLD_KDG2LHYF6okAZUSS/view](https://drive.google.com/file/d/1znXQ_foJduuTLLD_KDG2LHYF6okAZUSS/view)
+
+- ⚡ Fun fact **😎 I write code that sometimes works on the first try. I'm just as shocked as you are.**
 
 <br />
 

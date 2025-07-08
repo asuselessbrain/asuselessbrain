@@ -9,8 +9,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="asuselessbrain's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=asuselessbrain&theme=dark&hide_border=false" alt="asuselessbrain's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="asuselessbrain's GitHub Stats" width='40%' />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=asuselessbrain&theme=dark&hide_border=false" alt="asuselessbrain's GitHub Stats" width='44%' />
 </div>
 
 <div align="center">

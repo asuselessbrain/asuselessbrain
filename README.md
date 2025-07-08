@@ -11,9 +11,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="asuselessbrain's GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=asuselessbrain&theme=dark&hide_border=false" alt="asuselessbrain's GitHub Stats" />
-  
-  
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
 </div>
 
 <div align="center">

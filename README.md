@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/profile.php?id=61551041847783&mibextid=ZbWKwL" target="_blank">
-<img src="https://raw.githubusercontent.com/asuselessbrain/asuselessbrain/main/images/Banner2.png" />
+<img src="./images/github-header-image(1).png" />
 </a> 
 <h1 align="center">Hi 👋, I'm Arfan Ahmed</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
@@ -9,15 +9,15 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="asuselessbrain's GitHub Stats" width="44%" height="100%" alt="Github STat" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asuselessbrain&theme=merko&hide_border=true" alt="asuselessbrain's GitHub Stats" width="46.7%" height="100%" alt="Github STat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asuselessbrain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="asuselessbrain's GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=asuselessbrain&theme=dark&hide_border=false" alt="asuselessbrain's GitHub Stats" />
   
   
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="asuselessbrain's GitHub Stats" width="48%" height="100%" alt="Github STat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuselessbrain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
  <br>
 
@@ -28,14 +28,14 @@
 
  <div align="center">
 	<!-- <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arfan143128&theme=radical" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" /> -->
-  	<img src="https://leetcard.jacoblin.cool/ArfanAhmed?theme=unicorn" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" />
+  	<img src="https://leetcard.jacoblin.cool/ArfanAhmed?theme=unicorn" alt="arfan leetcode stats" />
 </div>
 
 <br>
 
   ## ⚡ Recent GitHub Activity
   <br />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asuselessbrain&theme=react-dark" alt="arfan leetcode stats" width="100%" height="100%" alt="LeetCode STat" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asuselessbrain&theme=react-dark" alt="arfan leetcode stats" />
   <br/> <br/>
 
  ## :eyes: Current overview

@@ -92,17 +92,18 @@
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/JavaScript.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/c.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/react.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/database-management.png"/>
+<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/redux.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/tailwind.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/Bootsrap.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/firebase.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/node.png"/>
-</p>
-<p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/express.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/mongo.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/database-management.png"/>
 </p></br>
 
 

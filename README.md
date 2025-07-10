@@ -92,6 +92,7 @@
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/JavaScript.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/c.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/react.png"/>
+<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/database-management.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/tailwind.png"/>

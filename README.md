@@ -106,6 +106,7 @@
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/database-management.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/typescript(1).png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/prism (1).png"/>
+<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/nextjs.png"/>
 </p></br>
 
 

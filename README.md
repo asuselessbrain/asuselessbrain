@@ -107,6 +107,7 @@
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/typescript(1).png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/prism (1).png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/icons8-next.js-64.png"/>
+<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/postgresql.png"/>
 </p></br>
 
 

@@ -100,7 +100,7 @@
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/firebase.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/node.png"/>
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/express.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/mongo.png"/>
+<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/mongodb.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/database-management.png"/>

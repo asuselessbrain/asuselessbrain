@@ -19,14 +19,14 @@
  <br>
 
  
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">  My Competitive Programming Profiles
+<!-- ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom">  My Competitive Programming Profiles
 
 <br>
 
  <div align="center">
-	<!-- <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arfan143128&theme=radical" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" /> -->
+	<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arfan143128&theme=radical" alt="arfan leetcode stats" width="60%" height="100%" alt="LeetCode STat" />
   	<img src="https://leetcard.jacoblin.cool/ArfanAhmed?theme=unicorn" alt="arfan leetcode stats" />
-</div>
+</div> -->
 
 <br>
 

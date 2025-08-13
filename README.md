@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/profile.php?id=61551041847783&mibextid=ZbWKwL" target="_blank">
+<a href="https://www.facebook.com/arfan.arfanahmed.73" target="_blank">
 <img src="./images/github-header-image(1).png" />
 </a> 
 <h1 align="center">Hi 👋, I'm Arfan Ahmed</h1>
@@ -75,7 +75,7 @@
   <a href="https://twitter.com/shoha50275" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=61551041847783&mibextid=zbwkwl" style="text-decoration: none"  target="_blank">
+  <a href="https://www.facebook.com/arfan.arfanahmed.73" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a> 
 <a href="https://github.com/asuselessbrain" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>

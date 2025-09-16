@@ -2,7 +2,7 @@
 <img src="./images/github-header-image(1).png" />
 </a> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=100&duration=2000&lines=Hi+There!+👋;+I'm+Arfan+Ahmed+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=700&height=120&duration=3000&lines=Hi+There!+👋;I'm+Arfan+Ahmed+👨🏻‍💻;A+Frontend+Developer+🎨;A+MERN+Stack+Developer+⚛️;A+Full+Stack+Developer+🚀" />
 </h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <br>

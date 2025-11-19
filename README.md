@@ -89,12 +89,7 @@
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/HTML.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/css.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/JavaScript.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/c.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/react.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/redux.png"/>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </p>
 <p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/tailwind.png"/>

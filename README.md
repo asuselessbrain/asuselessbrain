@@ -89,7 +89,9 @@
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
+  </a>
 </p>
 <p align="center">
 <img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/tailwind.png"/>

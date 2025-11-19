@@ -4,8 +4,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=700&height=120&duration=3000&lines=Hi+There!+👋;I'm+Arfan+Ahmed+👨🏻‍💻;A+Frontend+Developer+🎨;A+MERN+Stack+Developer+⚛️;A+Full+Stack+Developer+🚀" />
 </h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-<br>
+
+## 👨‍💻 About Me
+
+Hi! I'm **Arfan Ahmed**, a passionate **Full-Stack Developer** who loves building modern, scalable, and user-friendly applications. I enjoy crafting clean UIs, writing efficient backend logic, and learning new technologies every day.
 
 ## 🔥 My GitHub Stats :
 <br>
@@ -43,9 +45,9 @@
 <a href="https://app.daily.dev/arfanahmedshohag"><img align="right" src="https://api.daily.dev/devcards/v2/iIBSuCFpXCBzfeV0IxQJT.png?type=default&r=z7y" width="200" alt="Arfan Ahmed's Dev Card"/></a>
 </div>
 
-- 🔭 I’m currently working on [Medical Camp Management System](https://github.com/asuselessbrain/Medical-Camp-Management-System.git)
+- 🔭 I’m currently working on [CSIT_Inventory&Project&Thesis Management](https://github.com/asuselessbrain/Medical-Camp-Management-System.git)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://arfanahmed.vercel.app/](https://arfanahmed.vercel.app/)
 
@@ -53,7 +55,7 @@
 
 - 📫 How to reach me **arfan18@cse.pstu.ac.bd**
 
-- 📄 **[👉 Click here to see my experience](https://drive.google.com/file/d/1znXQ_foJduuTLLD_KDG2LHYF6okAZUSS/view)**
+- 📄 **[👉 Click here to see my experience](https://drive.google.com/file/d/1RCRYBElkanUGNkXwi3zNq1OCb7iJuSqh/view?usp=sharing)**
 
 - ⚡ Fun fact **😎 I write code that sometimes works on the first try. I'm just as shocked as you are.**
 
@@ -87,28 +89,25 @@
 
 
 ## :computer: Technologies that I know
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
-  </a>
-</p>
-<p align="center">
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/tailwind.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/Bootsrap.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/firebase.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/node.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/express.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/mongodb.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/database-management.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/typescript(1).png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/prism (1).png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/icons8-next.js-64.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/postgresql.png"/>
-<img src="https://github.com/asuselessbrain/asuselessbrain/blob/main/images/dart.png"/>
-</p></br>
+
+### Languages:
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,&theme=dark)](https://github.com/asuselessbrain)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://go-skill-icons.vercel.app/api/icons?i=tailwind,daisyui,materialui,bootstrap,shadcn,antdesign,&theme=dark)](https://github.com/asuselessbrain)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://go-skill-icons.vercel.app/api/icons?i=react,next,redux,nodejs,express,axios,reactrouter&theme=dark)](https://github.com/asuselessbrain)
+
+### Database & Model:
+[![Database & Model](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose,mysql,postgres,prisma,&theme=dark)](https://github.com/asuselessbrain)
+
+### Deployment Platform:
+[![Deployment Platform](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,cloudflare,render,supabase&theme=dark)](https://github.com/asuselessbrain)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,manjaro,git,github,vscode,postman,arduino,docker,chromedevtools&theme=dark)](https://github.com/asuselessbrain)
+</br>
 
 
 ## 🐍 A Snake Eating My Contributions Graph
